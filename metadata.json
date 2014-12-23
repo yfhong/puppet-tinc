@@ -1,0 +1,14 @@
+{
+  "name": "puppet-tinc",
+  "version": "0.1.0",
+  "author": "homer",
+  "summary": "Puppet module for tinc vpn",
+  "license": "BSD",
+  "source": "https://github.com/yfhong/puppet-tinc.git",
+  "project_page": "https://github.com/yfhong/puppet-tinc",
+  "issues_url": "https://github.com/yfhong/puppet-tinc/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+

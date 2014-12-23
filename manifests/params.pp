@@ -1,0 +1,3 @@
+class tinc::params {
+
+}
